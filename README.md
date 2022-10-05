@@ -1,2 +1,2 @@
 # meuprimeirorepositorio
-meu repositorio do curso de formadores
+meu repositorio do curso de formadores.
